@@ -9,6 +9,7 @@ public class PizzariadApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(PizzariadApplication.class, args);
 		System.out.println("Hello World rogerio");
+		System.out.println("API rodando na porta 8080");
 	}
 
 }
